@@ -1,0 +1,3 @@
+const rotatedString = () => {};
+
+export { rotatedString };
